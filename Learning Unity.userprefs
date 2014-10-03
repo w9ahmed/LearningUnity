@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\SpaceShooter\Assets\Scripts\Mover.cs">
+    <Files>
+      <File FileName="..\SpaceShooter\Assets\Scripts\DestroyByBoundary.cs" Line="1" Column="1" />
+      <File FileName="..\SpaceShooter\Assets\Scripts\RandomRotator.cs" Line="11" Column="2" />
+      <File FileName="..\SpaceShooter\Assets\Scripts\PlayerController.cs" Line="21" Column="2" />
+      <File FileName="..\SpaceShooter\Assets\Scripts\GameController.cs" Line="13" Column="17" />
+      <File FileName="..\SpaceShooter\Assets\Scripts\Mover.cs" Line="11" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
